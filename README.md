@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# GAME BOT: Developing a video game bot to teach machine learning*  
+# GAME BOT: Developing a video game bot to teach machine learning
 
 ![Here's a dino trained with the Deep Q-Learning algorithm!](/assets/dino_game_dql.gif "Dino with Deep Q-Learning!")
 
